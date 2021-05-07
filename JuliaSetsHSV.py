@@ -2,7 +2,6 @@ from datetime import date
 import time
 # numpy interp
 import numpy as npy
-import cmath
 
 # Python code for Julia Fractal 
 from PIL import Image, ImageDraw
